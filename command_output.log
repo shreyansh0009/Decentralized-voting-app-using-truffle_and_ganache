@@ -1,0 +1,39 @@
+
+Command: shopt -s histappend
+Output:
+
+Exit Code: 0
+----
+Command: pwd
+Output:
+/home/shreyansh0009/lnm-projects/clone-4/Decentralized-Voting-System-Using-Ethereum-Blockchain
+Exit Code: 0
+----
+Command: clear
+Output:
+[H[2J[3J
+Exit Code: 0
+----
+Command: ls
+Output:
+build
+command_output.log
+contracts
+Database_API
+index.js
+LICENSE
+migrations
+node_modules
+package.json
+package-lock.json
+public
+README.md
+src
+truffle-config.js
+Exit Code: 0
+----
+Command: clear
+Output:
+[H[2J[3J
+Exit Code: 0
+----
